@@ -1,0 +1,5 @@
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\bin\Debug\Simulator.Service.dll
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\bin\Debug\Simulator.Service.pdb
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\obj\Debug\Simulator.Service.dll
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\obj\Debug\Simulator.Service.pdb
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\obj\Debug\Simulator.Service.csprojResolveAssemblyReference.cache

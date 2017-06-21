@@ -1,0 +1,13 @@
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\bin\Release\Simulator.Service.dll
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\bin\Release\Simulator.Service.pdb
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\obj\Release\Simulator.GUI.csprojResolveAssemblyReference.cache
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\obj\Release\Gui.MainGui.resources
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\obj\Release\Gui.Properties.Resources.resources
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\obj\Release\Simulator.GUI.csproj.GenerateResource.Cache
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\bin\Release\AA Lottery Simulator.exe.config
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\bin\Release\AA Lottery Simulator.exe
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\bin\Release\AA Lottery Simulator.pdb
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\obj\Release\AA Lottery Simulator.exe
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\obj\Release\AA Lottery Simulator.pdb
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\bin\Release\AA Lottery Simulator.exe.CodeAnalysisLog.xml
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Gui\bin\Release\AA Lottery Simulator.exe.lastcodeanalysissucceeded

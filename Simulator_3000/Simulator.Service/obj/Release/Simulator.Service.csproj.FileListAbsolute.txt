@@ -1,0 +1,6 @@
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\bin\Release\Simulator.Service.dll
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\bin\Release\Simulator.Service.pdb
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\obj\Release\Simulator.Service.dll
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\obj\Release\Simulator.Service.pdb
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\bin\Release\Simulator.Service.dll.CodeAnalysisLog.xml
+G:\Google Drive\C# (1)\Для работы\Simulator_3000\Simulator.Service\bin\Release\Simulator.Service.dll.lastcodeanalysissucceeded
